@@ -1,0 +1,7 @@
+name = "Everblush"
+display-name = "Everblush"
+description = "A Dark, Vibrant and Beatiful colorscheme"
+version = "0.1.0"
+author = "Everblush"
+repository = "Everblush/lapce"
+themes = ["Everblush.toml"]

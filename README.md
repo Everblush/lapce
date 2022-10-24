@@ -9,7 +9,21 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/Everblush/lapce?color=e5c76b&labelColor=22292b&style=for-the-badge">
+<img src="https://img.shields.io/github/issues/Everblush/lapce?color=67b0e8&labelColor=1e2528&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
 <img src="https://img.shields.io/github/forks/Everblush/lapce?color=e74c4c&labelColor=1b2224&style=for-the-badge">
 </p>
 
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/primalkz/lapce/main/assets/lapce.png"/>
+</div>
+
+## Installation
+
+### Manual
+- ```mkdir ~/.local/share/lapce-stable/Everblush```
+- copy ```Everblush.toml``` and ```volt.toml``` into ```~/.local/share/lapce-stable/Everblush```
+- ```cp *.toml ~/.local/share/lapce-stable/Everblush/```
+
+# Credits 💝
+- [mangeshrex](https://github.com/Mangeshrex) for screenshot.

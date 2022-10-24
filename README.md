@@ -15,7 +15,7 @@
 </p>
 
 <div align="center"> 
-<img src=""/>
+<img src="https://raw.githubusercontent.com/primalkz/lapce/main/assets/lapce.png"/>
 </div>
 
 ## Installation

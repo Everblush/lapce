@@ -24,6 +24,11 @@
 - ```mkdir ~/.local/share/lapce-stable/Everblush```
 - copy ```Everblush.toml``` and ```volt.toml``` into ```~/.local/share/lapce-stable/Everblush```
 - ```cp *.toml ~/.local/share/lapce-stable/Everblush/```
+## Plugin
+- Go to plugins tab
+- Scroll down to Everblush -> Install
+- Open command pallet and type and select ```change theme```.
+- select Everblush.
 
 # Credits 💝
 - [mangeshrex](https://github.com/Mangeshrex) for screenshot.

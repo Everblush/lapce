@@ -4,4 +4,4 @@ description = "A Dark, Vibrant and Beatiful colorscheme"
 version = "0.1.0"
 author = "Everblush"
 repository = "Everblush/lapce"
-themes = ["Everblush.toml"]
+color-themes = ["Everblush.toml"]

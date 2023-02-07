@@ -1,7 +1,7 @@
-[theme]
+[color-theme]
 name = "Everblush"
 
-[theme.base]
+[color-theme.base]
 white = "#dadada"
 black = "#0f1619"
 grey = "#232a2d"
@@ -14,7 +14,7 @@ purple = "#bab3e5"
 cyan = "#6cbfbf"
 magenta = "#c47fd5"
 
-[theme.syntax]
+[color-theme.syntax]
 attribute = "$yellow"
 builtinType = "$cyan"
 comment = "#aeb4b3"
@@ -51,7 +51,7 @@ typeAlias = "$yellow"
 variable = "$red"
 "variable.other.member" = "$green"
 
-[theme.ui]
+[color-theme.ui]
 "activity.background" = "#0f1619"
 "activity.current" = "$black"
 "completion.background" = "#1b2225"
